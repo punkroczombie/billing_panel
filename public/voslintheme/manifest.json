@@ -1,0 +1,12 @@
+{
+  "themes/voslintheme/css/app.css": {
+    "file": "assets/app-bb7a7cfb.css",
+    "isEntry": true,
+    "src": "themes/voslintheme/css/app.css"
+  },
+  "themes/voslintheme/js/app.js": {
+    "file": "assets/app-ff1ed6f4.js",
+    "isEntry": true,
+    "src": "themes/voslintheme/js/app.js"
+  }
+}
